@@ -8,7 +8,6 @@
 .buildlog/
 .history
 .svn/
-images/
 
 # IntelliJ related
 *.iml
@@ -31,39 +30,39 @@ images/
 /build/
 
 # Android related
-**/android/**/gradle-wrapper.jar
-**/android/.gradle
-**/android/captures/
-**/android/gradlew
-**/android/gradlew.bat
-**/android/local.properties
-**/android/**/GeneratedPluginRegistrant.java
+**/src/android/**/gradle-wrapper.jar
+**/src/android/.gradle
+**/src/android/captures/
+**/src/android/gradlew
+**/src/android/gradlew.bat
+**/src/android/local.properties
+**/src/android/**/GeneratedPluginRegistrant.java
 
 # iOS/XCode related
-**/ios/**/*.mode1v3
-**/ios/**/*.mode2v3
-**/ios/**/*.moved-aside
-**/ios/**/*.pbxuser
-**/ios/**/*.perspectivev3
-**/ios/**/*sync/
-**/ios/**/.sconsign.dblite
-**/ios/**/.tags*
-**/ios/**/.vagrant/
-**/ios/**/DerivedData/
-**/ios/**/Icon?
-**/ios/**/Pods/
-**/ios/**/.symlinks/
-**/ios/**/profile
-**/ios/**/xcuserdata
-**/ios/.generated/
-**/ios/Flutter/App.framework
-**/ios/Flutter/Flutter.framework
-**/ios/Flutter/Generated.xcconfig
-**/ios/Flutter/app.flx
-**/ios/Flutter/app.zip
-**/ios/Flutter/flutter_assets/
-**/ios/ServiceDefinitions.json
-**/ios/Runner/GeneratedPluginRegistrant.*
+**/src/ios/**/*.mode1v3
+**/src/ios/**/*.mode2v3
+**/src/ios/**/*.moved-aside
+**/src/ios/**/*.pbxuser
+**/src/ios/**/*.perspectivev3
+**/src/ios/**/*sync/
+**/src/ios/**/.sconsign.dblite
+**/src/ios/**/.tags*
+**/src/ios/**/.vagrant/
+**/src/ios/**/DerivedData/
+**/src/ios/**/Icon?
+**/src/ios/**/Pods/
+**/src/ios/**/.symlinks/
+**/src/ios/**/profile
+**/src/ios/**/xcuserdata
+**/src/ios/.generated/
+**/src/ios/Flutter/App.framework
+**/src/ios/Flutter/Flutter.framework
+**/src/ios/Flutter/Generated.xcconfig
+**/src/ios/Flutter/app.flx
+**/src/ios/Flutter/app.zip
+**/src/ios/Flutter/flutter_assets/
+**/src/ios/ServiceDefinitions.json
+**/src/ios/Runner/GeneratedPluginRegistrant.*
 
 # Exceptions to above rules.
 !**/ios/**/default.mode1v3
@@ -71,3 +70,6 @@ images/
 !**/ios/**/default.pbxuser
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+/src/android
+/src/ios
+/.vs
