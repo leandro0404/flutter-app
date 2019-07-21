@@ -1,0 +1,143 @@
+
+{
+  "curriculum": {
+    "perfil": {
+
+      "nome": "Leandro Silveira",
+      "profissao": "Programador",
+      "descricao": "Profissional com mais de 8 anos de experiência na área de TI atuando em empresas de pequeno, médio e grande porte com diversos cursos de aperfeiçoamento, atuando no segmento de desenvolvimento de aplicações para web e cliente/servidor com alto conhecimento na plataforma .Net e também outras plataformas como Node.js e Java EE. Produtividade e busca contínua pelo conhecimento são as principais características do meu perfil profissional.",
+      "nacionalidade": "Brasileiro ",
+      "idade": "32",
+      "cidade": "Belo Hirozonte",
+      "estado": "MG ",
+      "telefone": "(31)99348-6906",
+      "email": "leandrobhmgg@gmail.com"
+
+    },
+    "exeperiencia": [
+      {
+        "titulo": "Stefanini - Programador",
+        "descricao": "Área de Atuação: Desenvolvimento de aplicações web ultilizando Asp.Net.Mvc , Web Forms, Wcf, sql2008. 07/2018 a momento Atual"
+      },
+      {
+        "titulo": "E-Solum - Programador",
+        "descricao": "Área de Atuação: Desenvolvimento de aplicações web ultilizando Asp.Net.Mvc 4,html5,css3, jquery,sql2012,MongoDB,Asp.Net Web Api 2,Entity, entity Framework,SingnaIR, sql server 2012/2014. 07/2013 a 05/2015"
+      },
+      {
+        "titulo": "Wi-Pro - Programador",
+        "descricao": "Área de Atuação: Desenvolvimento de aplicações web ultilizando Asp.Net.Mvc , Web Forms, Wcf, sql2008. 05/2015 até 07/2018"
+      },
+      {
+        "titulo": "Detecvision - Programador",
+        "descricao": "Área de Atuação: Desenvolvimento de aplicações desktop para automação comercial ultilizando windows forms, entity framework 4 e sql 2012."
+      }
+
+    ],
+    "skills": [
+      {
+        "titulo": "Linguagens de programação",
+        "itens": [
+          "c#",
+          "VB.net",
+          "EcmaScript",
+          "Java",
+          "T-sql",
+          "PL-sql",
+          "Dart",
+          "R"
+
+        ]
+      },
+      {
+        "titulo": "Desing Patterns/Arquitetura",
+        "itens": [
+          "Gof",
+          "Solid",
+          "DDD",
+          "Cqrs",
+          "MVC",
+          "Bloc",
+          "Microservices",
+          "DW {Arquitetura de Dados"
+
+
+        ]
+
+      },
+      {
+        "titulo": "FrameWorks",
+        "itens": [
+          "AspNet.MVC",
+          "/",
+          "Core",
+          "Wcf",
+          "Web.Api",
+          "Vue.js",
+          "Angular",
+          "Wpf",
+          "Flutter",
+          "Xamarim",
+          "Microsoft.Bot",
+          "Framework",
+          "Express.js  {Node}",
+          "SQL",
+          "Server",
+          "Integration",
+          "Services"
+
+        ]
+
+      },
+      {
+        "titulo": "Bancos de Dados",
+        "itens": [
+          "SQL",
+          "Server",
+          "MySql",
+          "MongoDB",
+          "Redis",
+          "Neo4j",
+          "Oracle"
+        ]
+
+      },
+      {
+        "titulo": "DevOps",
+        "itens": [
+          "Git",
+          "Jenkins",
+          "Docker",
+          "Tfs",
+          "grunt",
+          "gulp"
+        ]
+
+      },
+      {
+        "titulo": "Cultura e Métodos",
+        "itens": [
+          "Agile",
+          "Scrum",
+          "TDD"
+        ]
+
+      },
+      {
+        "titulo": "Machine Learning / Cognitive Services",
+        "itens": [
+          "Microsoft",
+          "Luis",
+          "Microsoft",
+          "Vision",
+          "Microsoft",
+          "qna-Maker"
+        ]
+
+      }
+
+    ]
+
+
+
+  }
+}
